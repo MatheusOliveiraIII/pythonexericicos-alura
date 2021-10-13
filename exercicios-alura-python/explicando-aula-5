@@ -1,0 +1,21 @@
+Aqui ele fala sobre a função print e variavel.
+função print : Ela inprime uma mensagem 
+Abre aspas :
+"Agora, como queremos saber mais sobre a função print, vamos digitá-la:
+help(print)" fecha aspas
+abre aspas
+" Inicialmente, o que nos importa são os três primeiros valores que a função print pode receber:
+value é o valor que queremos imprimir, as reticências indicam que a função pode receber mais de um valor, basta separá-los por vírgula.
+sep é o separador entre os valores, por padrão o separador é um espaço em branco.
+end é o que acontecerá ao final da função, por padrão há uma quebra de linha, uma nova linha (\n)." Fecha aspas
+Isso é muito, muito importante
+Value
+Sep
+End
+Variaveis : como o nome diz variavel.
+Exemplos
+pais =  "Italia"
+print( pais "é bom")
+por que que precisa das aspas?
+sem aspas é algo int (int = a numeros)
+com aspas é algo str (str = a palavras)
