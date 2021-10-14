@@ -1,0 +1,14 @@
+Variavel 
+
+preco = 49.99
+
+qual sera o tipo da variavel preco??
+
+Float 
+Porque Float é uma variavel com virgula/Ponto 
+O valor 49.99 é um numero decimal. 
+E entao logicamente não sera int sera float!
+
+preco = 49,99
+type(preco)
+<class 'float'>
