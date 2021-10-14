@@ -1,0 +1,20 @@
+Ele ja começa com o codigo
+
+subst = "Python"
+verbo = "é"
+adjetivo = "fantástico"
+print(subst, verbo, adjetivo, sep="_", end="!\n")
+
+Qual sera a resposta?
+
+Python_é_fantástico
+
+atraves do end para coloca uma exclamação (!), sehuida pelo /n
+
+end = "!/n"
+
+lembrando que o /n é um caractere especial,que faz com que o novo prompt comece em uma nova linha
+
+Dai a resposta é
+
+Python_é_fantástico
